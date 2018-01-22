@@ -6,13 +6,9 @@ These are my assignments from Grow with Google Challenge Scholarship Front-End W
 
 # Class duration
 
-The class officially began on 1/10/2018.
+1/10/2018 - 4/11/2018.
 
-According to the Udacity website, I have 29 hours of class (including assignments) to complete at the time of writing this that is.  
-
-It looks like I have until 4/11/2018.
-
-# Goals
+As of today, I have 29 hours of class (including assignments) to complete at the time of writing this that is.  
 
 I would like to finish the class by the week of 4/2.
 
